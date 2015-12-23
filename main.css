@@ -1,0 +1,24 @@
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+.wrapper {
+	min-height:100%;
+	position:relative;
+}
+#sign-in{
+	padding: 1.1625rem;
+	float: right;
+}
+#sign-out{
+	padding: 1.1625rem;
+	float: right;
+}
+.footer {
+	width:100%;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
